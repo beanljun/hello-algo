@@ -2,8 +2,8 @@
 .DS_Store
 
 # Editor
-.vscode/
-**/.idea
+# .vscode/
+# **/.idea
 
 # mkdocs files
 .cache/
